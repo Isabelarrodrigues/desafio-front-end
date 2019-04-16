@@ -1,4 +1,4 @@
-# desafio-front-end
+# desafio Front-end
 
 # Carteira Virtual
 O Web App precisa fornecer carteiras virtuais de criptomoedas. 
